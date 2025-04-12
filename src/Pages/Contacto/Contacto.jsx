@@ -1,5 +1,5 @@
 // import Contact from "../../components/conctact/Contact";
-import Contact from "../../components/Contact/Contact";
+import Contact from "../../components/MyContact/MyContact";
 
 
 export default function Contacto() {

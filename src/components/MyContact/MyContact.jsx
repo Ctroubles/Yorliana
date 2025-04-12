@@ -2,7 +2,7 @@ import style from './Contact.module.css'
 import { Link } from "react-router-dom";
 import img from "../../../src/assets/img/LogoOkey.png"
 import Formulario from "../Formulario/Formulario";
-import Redes from "../../components/foo/Redes";
+import Redes from "../foo/Redes";
 import botoflecha from "../../../src/assets/img/blotoflecha.png"
 
 
